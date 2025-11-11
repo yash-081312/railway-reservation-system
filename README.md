@@ -47,10 +47,10 @@ This project is about the Online Railway Reservation System which is used to vie
 - Java
 - JDBC
 - Servlet
-- Oracle ( SQL )
+- My sql
 
 ### Software And Tools Used
-- Oracle SQL
+- mySQL
 - Eclipse EE
 - Java JDK 8
 - Tomcat v8.0
